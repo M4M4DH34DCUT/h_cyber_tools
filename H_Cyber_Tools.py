@@ -4,7 +4,7 @@ import time
 import sys
 import urllib.request
 from colorama import Fore
-os.system('cls')
+os.system('clear')
 
 # this script coded By Cyber Screen Tm 
 # M4M4D H34D CUT & Cyber Romrx & Itr & Mosalah
@@ -164,7 +164,7 @@ print_time('Well come to H_Cyber_tools BY cyber screen Tm')
 
 
 def works():
-    print_time_2'Chosse Item:')
+    print_time_2('Chosse Item:')
     print_time_2(Fore.LIGHTRED_EX+'[help()] use help() to see How to Use This Program')
     print_time_2(Fore.YELLOW +
           '[1] >> password making By number -> need :[First 3 number and Last 4 number -> for example (912***6789)] ')
@@ -180,7 +180,7 @@ choose = input(Fore.YELLOW+'Choose Number >> ')
 choose = str(choose)
 
 def help_1():
-    os.system('cls')
+    os.system('clear')
 
     print_time_2(Fore.LIGHTGREEN_EX+''' _   _      _
 | | | | ___| |_ __
@@ -284,7 +284,7 @@ def help_1():
             works_2()
             choose_2 = input(Fore.YELLOW+'Enter Number')
 def chossen1():
-    os.system('cls')
+    os.system('clear')
     print(Fore.LIGHTMAGENTA_EX+''' _   _                 _
 | \ | |_   _ _ __ ___ | |__   ___ _ __ ___
 |  \| | | | | '_ ` _ \| '_ \ / _ \ '__/ __|
@@ -315,7 +315,7 @@ def chossen1():
 
 
 def choosen2():
-    os.system('cls')
+    os.system('clear')
     print(Fore.LIGHTBLUE_EX+'''|  \/  | ___  ___| |_   _   _ ___  __ _  __ _  ___
 | |\/| |/ _ \/ __| __| | | | / __|/ _` |/ _` |/ _ \\
 | |  | | (_) \__ \ |_  | |_| \__ \ (_| | (_| |  __/
@@ -350,7 +350,7 @@ def choosen2():
 
 
 def choosen3():
-    os.system('cls')
+    os.system('clear')
     print(Fore.LIGHTRED_EX+'''  ____                _             __  __       _
  / ___|___  _ __ ___ | |__   ___   |  \/  | __ _| | _____ _ __
 | |   / _ \| '_ ` _ \| '_ \ / _ \  | |\/| |/ _` | |/ / _ \ '__|
@@ -388,6 +388,7 @@ def choosen3():
 
 
 def choosen4():
+    os.system('clear')
     print(Fore.LIGHTYELLOW_EX+'''    _       _           _
    / \   __| |_ __ ___ (_)_ __
   / _ \ / _` | '_ ` _ \| | '_ \\
